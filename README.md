@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/monkeid" target="blank"><img src="https://img.shields.io/twitter/follow/monkeid?logo=twitter&style=for-the-badge" alt="monkeid"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Dijikids**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , MEARN , Machine learning**
 
 - 📫 How to reach me **jackoraro0@gmail.com**
 
